@@ -1,0 +1,2 @@
+Prefix plugins/GPUGauss/example
+Plugin GPUGauss inputfile parameters.txt outputfile output.tsv
